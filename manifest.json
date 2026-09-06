@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Yahoo Pick'em Confidence Helper",
+  "version": "0.1.1",
+  "description": "Makes used Yahoo Pick'em confidence values obvious and unavailable in every other dropdown.",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://football.fantasysports.yahoo.com/pickem/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "css": [
+        "content.css"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}

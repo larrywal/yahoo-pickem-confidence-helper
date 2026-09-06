@@ -1,0 +1,12 @@
+select.ycf-confidence-select {
+  box-sizing: border-box;
+  width: 4.75rem;
+  min-width: 4.75rem;
+  max-width: 4.75rem;
+}
+
+select.ycf-confidence-select.ycf-duplicate-confidence {
+  outline: 3px solid #d0021b !important;
+  outline-offset: 1px;
+  background-color: #fff0f1 !important;
+}
