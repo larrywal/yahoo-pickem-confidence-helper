@@ -6,7 +6,10 @@ every other Yahoo Pick'em dropdown. A used option is renamed from, for example,
 previous game. The text marker is intentional: native macOS menus do not always
 make option styling or disabled states obvious.
 
-**[Download the ready-to-install ZIP](./yahoo-confidence-helper.zip)**
+**[Download the latest ready-to-install ZIP](https://github.com/larrywal/yahoo-pickem-confidence-helper/releases/latest/download/yahoo-confidence-helper.zip)**
+
+> This is an unofficial community project. It is not affiliated with, endorsed
+> by, or supported by Yahoo.
 
 ## Install the proof of concept
 
