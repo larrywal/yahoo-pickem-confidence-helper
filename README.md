@@ -6,13 +6,16 @@ every other Yahoo Pick'em dropdown. A used option is renamed from, for example,
 previous game. The text marker is intentional: native macOS menus do not always
 make option styling or disabled states obvious.
 
+**[Download the ready-to-install ZIP](./yahoo-confidence-helper.zip)**
+
 ## Install the proof of concept
 
-1. Open `chrome://extensions` in Chrome.
-2. Turn on **Developer mode**.
-3. Click **Load unpacked**.
-4. Select this `yahoo-confidence-helper` folder.
-5. Reload the Yahoo Pick'em entry page.
+1. Download and unzip `yahoo-confidence-helper.zip`.
+2. Open `chrome://extensions` in Chrome.
+3. Turn on **Developer mode**.
+4. Click **Load unpacked**.
+5. Select the unzipped `yahoo-confidence-helper` folder.
+6. Reload the Yahoo Pick'em entry page.
 
 ## Expected behavior
 
